@@ -236,12 +236,16 @@ a.more_read{
 .top_tab_box h2{
     margin-top:0;
 }
-.top_tab_box .tab-pane .col-xs-3 a{
+.top_tab_box .tab-pane .col-xs-2 a{
     display:block;
+    font-size:12px;
 }
-.top_tab_box .tab-pane .col-xs-9 a{
+.top_tab_box .tab-pane .col-xs-10 a{
     float:right;
 }
 .top_main_content_box article h3{
     margin-top:0;
+}
+#top_tab_content .thumbnail_box{
+    margin-bottom:10px;
 }
