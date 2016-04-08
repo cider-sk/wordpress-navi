@@ -100,7 +100,7 @@ a.more_read{
 }
 .qa_search_box form{
     padding-left:5px;
-    margin-bottom:20px;
+    margin-bottom:5px;
 }
 .qa_search_box form input{
     width: 75%;
@@ -120,6 +120,12 @@ a.more_read{
 .sidebar .result_box ul{
     padding-left:20px;
     font-size:12px;
+}
+#head_title h1#top_title a{
+    color:#fff;
+}
+#head_title h1#top_title a:hover{
+    text-decoration:none;
 }
 @media screen and ( min-width:480px ) {
     header{
